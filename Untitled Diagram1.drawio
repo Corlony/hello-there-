@@ -1,1 +1,539 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T12:16:34.441Z" agent="5.0 (X11)" etag="gjJt_tN9hsFReZDggJWh" version="20.3.0" type="github" pages="4"><diagram id="m49JiDCDWUdo5BQ6anGd" name="Page-1">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</diagram><diagram id="Q-NaKHXhFniktiyjGdNz" name="Page-2">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</diagram><diagram id="L205vRVSoSnXY47SCGRg" name="Capstone Map">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</diagram><diagram id="VGSFS-7xp2DidhXrC6Vb" name="Page-4">7VpbV+I6FP41rDXngbNKU26PiHg7qDjoDMyLK7aRxgkJpuHmrz9Jm95ocRUdZEB90GY3O0339+1Lti2B9nhxyuHEvWQOIiXTcBYlcFwyzYpVa8g/SrIMJPUmCAQjjh09KRb08QvSQkNLp9hBXmqiYIwIPEkLbUYpskVKBjln8/S0R0bST53AEcoI+jYkWelP7AhXSyuGEd84Q3jk6kc3qvrGGIaTtcBzocPmCRHolECbMyaCq/GijYgyXmiXQO9kzd1oYxxRUUTh1/Ng7AzH98c/aO9m0Rjedy5Zuab3JpbhCyNHvr8eMi5cNmIUkk4sPeJsSh2kVjXkKJ7TZWwihRUpfEJCLDWYcCqYFLliTPRdtMBikLgeqqX+rerR8UKv7A+W4YAKvhwkBwktNYzV/FGo98io0BupmHrcZoRx/23Bif8j5YEd1MuvNa8WeWzKbfSKTUOaQj5C4pV5ZkQC6T2IjZHct9TjiECBZ+l9QE3jUTQvRlpeaLA3AF6vO4Nkqp90TgXiVO7YNFzmiQwx0rDPXSxQfwJ9S8yl76chJvABkSNo/x75aqHFKaNoY1BmiAu0eB2WrBlDhbp2Px1/osAyT3hz6KJuwpFrxpYsX90Xl9uB65gFXQd8kOvcLE9EbSa8iwdIjn94y3q/1ymDfQFwj2JmDvC5tl/j7B8DvPUF/M6A32myNDPJsmTWiNzukYNn8nKkLm9d7PkF6zK8KZ+VuJ+jEq/zwFenrSofRDa2GjvMxjb/9fuFPg6aP7sndWiB7uzian+y8R75NMj6dK7trV36NCjm01Bs6tNy4baiecH5j5jIuluxqSWfVK1a1jfPc//5ZIGhYfxtZbpVhB/Hw6vW5Xk7wK5kGednCgzPVSOzBsfK3L7O1EM8kgTAWYaQGeNecuseT6RCWT7DaBqqf2CUr24LE+gbtG3GHUxHfm9E/mpf99vKJNSRvxklS7/xwf0uiWdLeio7s6kaQxpPcaH0OTVCfr+GwjG21ZJTSv2mDpsg+vl4maKlVcvSsmptiZbrC+AULZlwFbeCIHUgRk9bPcfoW4sF64vPT2Z0sHOrV7MR+M0R9rynomq3sljI1wQtIfN6KActlbKDkHsQSK62vKpmFskI3Q9BslYkl4bgCkSCLiRhNiRBK9IIgJMokVzgZa5CK+AXTZ8+SwI2BGm8MLm6if2VvwebbDblIreadT65VEWXzuifJHVmaNj4QBp2Rrflu95jf/ifI66a3bs2xjwM43//WW+7Z7Zc27y3saZVewxTkUgqlZWyvllNLxGcEbXWCrzRNt6OeLZaqsg4YmR4sJ8eZoIV6+Z4WJ6DgW05WPZMbWab5ftp6wyTc2xdz7G19Qdsnds8yVL73dWRzrPS7q0494JWkNYOuUKqWR+YmnLRLNSNigFWaFBBJptUOZtxI1l8lScRM95cVan8tuFuN6vG1m045rWpVgStfvv6+mjom/urKKsbu2Z+oT6bZzP28PV/lfWwVnbZP10MbqfPV8+zi1PGB083L5XW01NefsoCdff+mGQWZkXg+MkTZv+sdXo6DNJfD/Ex9jzMVEfUQRRLEmwQr6LFNwp0fybKmckoB/wVi7E/fv+Db4LUc9pZuYGuuS2HyKb49e2OCFpQij4fPDREoi8lt5B65DD+sDI4TMafp4LO/w==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-23T12:17:54.515Z" agent="5.0 (X11)" etag="EAusGioDHBQWK9uFhoTK" version="20.3.0" type="github" pages="4">
+  <diagram id="m49JiDCDWUdo5BQ6anGd" name="Page-1">
+    <mxGraphModel dx="2318" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontColor=#0C1BF0;" parent="1" source="eq9zFTzemc9hKWh8LaHV-155" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontColor=#0C1BF0;" parent="1" source="eq9zFTzemc9hKWh8LaHV-155" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-155" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="335" y="285" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-156" value="&lt;div&gt;Internet_Host&lt;/div&gt;&lt;div&gt;10.50.x.x&lt;/div&gt;&lt;div&gt;10.10.0.40&lt;br&gt;&lt;/div&gt;&lt;div&gt;11400-11499:&lt;/div&gt;&lt;div&gt;11400-&amp;gt;&lt;/div&gt;&lt;div&gt;11401-&amp;gt;&lt;/div&gt;&lt;div&gt;.. -&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11499&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pulled Files:&lt;/div&gt;&lt;div&gt;192.168.0.1(Johnny):filename&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="395" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eq9zFTzemc9hKWh8LaHV-337" target="eq9zFTzemc9hKWh8LaHV-338" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0C1BF0;" parent="1" source="eq9zFTzemc9hKWh8LaHV-337" target="eq9zFTzemc9hKWh8LaHV-340" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-337" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;Recon Methodology&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;1. Host Discovery(nmap, nc, ./scan.sh, ping sweep)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;1a. nmap -Pn -T4 192.168.0.1/24(also 192.168.0.1,30,55,70) -p 21-23,80 | egrep -i &quot;scan report|open&quot;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;2. Port/ Service Discovery(nmap, nc, ./scan.sh)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;3. Port Validation(nc --&amp;gt; Banner Grabbing)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;4. Follow-on Actions based on ports found&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;4a. if it&#39;s 22 or 23, connect to it and do &lt;b&gt;passive&lt;/b&gt; recon&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;4b. if it is 21 or 80, wget -r &amp;lt;IP&amp;gt; or wget -r ftp://&amp;lt;ip&amp;gt; (PULL THE FILES)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;Scanning Methodology&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;1. Quick Scan Ports: 21-23, 80&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;2. scan specific ports based on hints/clues found&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;3. Well Known Ports: 0-1023&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;4. 10-10000&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;5. 65335(if all else fails)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;Passive Recon Methodology&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;hostname&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;ip a, ifconfig (interfaces and subnets)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;arp -a, ip neigh (Neighbors?)(ip neigh | egrep -iv &quot;failed&quot;)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;ss -nltp4(other listening ports?)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;ls /usr/cctc/share (Files of interest)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;which, tcpdump, curl, telnet, nmap, wget, curl, wireshark (available tools) &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;can 1 step dynamic: ssh -D 9050 &amp;lt;user&amp;gt;@&amp;lt;targetfloatip&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#967DB0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="-160" width="600" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-338" value="&lt;div&gt;&lt;font color=&quot;#8C47BA&quot;&gt;Ping Sweep:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#8C47BA&quot;&gt;&lt;code&gt;for i in {1..254} ;do (ping -c 1 192.168.1.$i | grep &quot;bytes from&quot; &amp;amp;) ;done&lt;/code&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#967DB0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-210" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-340" value="&lt;div&gt;Tip: &lt;br&gt;&lt;/div&gt;&lt;div&gt;If a machine does not have one of the Quick Scan ports open,&lt;/div&gt;&lt;div&gt;don&#39;t map it&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#0C1BF0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-140" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="eq9zFTzemc9hKWh8LaHV-345" target="eq9zFTzemc9hKWh8LaHV-347" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-345" value="&lt;div&gt;&lt;font color=&quot;#F0E9EE&quot;&gt;Johnny-appleseed&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#F0E9EE&quot;&gt;192.168.0.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#F0E9EE&quot;&gt;eth1: 172.16.82.3/25&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#F0E9EE&quot;&gt;21,23,80,22(filtered)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#F0E9EE&quot;&gt;/bin/tcpdump&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#F0E9EE&quot;&gt;gtfo.pcap&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#0C1BF0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="140" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eq9zFTzemc9hKWh8LaHV-346" target="eq9zFTzemc9hKWh8LaHV-347" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-346" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;192.168.0.30&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontColor=#0C1BF0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eq9zFTzemc9hKWh8LaHV-347" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;UNK&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="750" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q-NaKHXhFniktiyjGdNz" name="Page-2">
+    <mxGraphModel dx="1174" dy="2334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yvTgiHOmzYp00KpEnx5r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-1" target="yvTgiHOmzYp00KpEnx5r-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-1" target="yvTgiHOmzYp00KpEnx5r-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-1" target="aiCSv_BEGlrVIuYpnBj--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTgiHOmzYp00KpEnx5r-1" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Internet_host&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;10.50.X.X&lt;br&gt;11400-&amp;gt;&lt;br&gt;11401-&amp;gt;NS1&lt;br&gt;11402-&amp;gt;NS2&lt;br&gt;..&lt;br&gt;11499-&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=24;fontColor=#FFFFFF;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-450" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=-0.008;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-3" target="aiCSv_BEGlrVIuYpnBj--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="185" />
+              <mxPoint x="730" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-3" target="aiCSv_BEGlrVIuYpnBj--10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="185" />
+              <mxPoint x="730" y="5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-3" target="lsdf27sEsy8acEkL181g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTgiHOmzYp00KpEnx5r-3" value="&lt;div&gt;Atropia(T3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.3.0.10(internal)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTgiHOmzYp00KpEnx5r-6" value="&lt;div&gt;Float IP:&lt;/div&gt;&lt;div&gt;10.50.33.143&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rCzxcQUWHQtm9QrZ-nw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-8" target="2rCzxcQUWHQtm9QrZ-nw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rCzxcQUWHQtm9QrZ-nw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-8" target="2rCzxcQUWHQtm9QrZ-nw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rCzxcQUWHQtm9QrZ-nw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="yvTgiHOmzYp00KpEnx5r-8" target="2rCzxcQUWHQtm9QrZ-nw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTgiHOmzYp00KpEnx5r-8" value="&lt;div&gt;Pineland(T4)&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.0.1(internal)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;22, 23, 80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--1" value="&lt;div&gt;Float IP:&lt;/div&gt;&lt;div&gt;10.50.22.245&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--2" value="Float IP: 10.50.37.22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="aiCSv_BEGlrVIuYpnBj--6" target="lsdf27sEsy8acEkL181g-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="aiCSv_BEGlrVIuYpnBj--6" target="lsdf27sEsy8acEkL181g-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="aiCSv_BEGlrVIuYpnBj--6" target="lsdf27sEsy8acEkL181g-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--6" value="&lt;div&gt;T5&lt;/div&gt;&lt;div&gt;192.168.0.10&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;22, 23, 80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-610" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--10" value="&lt;div&gt;Victoria server&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.3.0.27&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;21,80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-70" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--12" value="Cortina&#39;s server&lt;br&gt;&lt;div&gt;10.3.0.1&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;21,80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="320" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--15" value="10.3.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--16" value="10.2.0.0/25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--20" value="&lt;div&gt;Mohammed Web Server&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.0.2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;20,80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--21" value=".1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--23" value=".10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiCSv_BEGlrVIuYpnBj--24" value=".2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rCzxcQUWHQtm9QrZ-nw-1" value="&lt;div&gt;Mohammed FTP Server&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.0.3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;22, 23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="600" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2rCzxcQUWHQtm9QrZ-nw-3" value="&lt;div&gt;Mohammed Web Server&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.0.202&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;53&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="970" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2rCzxcQUWHQtm9QrZ-nw-4" value="&lt;div&gt;Mohammed Web Server&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.0.203&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;53" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1150" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-2" value="10.4.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-3" value="10.5.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="lsdf27sEsy8acEkL181g-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-4" value="&lt;div&gt;Atropia(T3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.3.0.10(internal)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="80" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="lsdf27sEsy8acEkL181g-9" target="lsdf27sEsy8acEkL181g-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="lsdf27sEsy8acEkL181g-9" target="lsdf27sEsy8acEkL181g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Baja Republic&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.4.0.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="110" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mojave&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.5.0.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="-20" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;paramphia&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.5.0.57&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;21&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="200" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-14" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkg2NVbdAC508lFHFCFD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="lsdf27sEsy8acEkL181g-24" target="Rkg2NVbdAC508lFHFCFD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="-542" />
+              <mxPoint x="1150" y="-570" />
+              <mxPoint x="1230" y="-570" />
+              <mxPoint x="1230" y="-530" />
+              <mxPoint x="1320" y="-530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PH4uxNKFpPYVPGDwTnzV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="lsdf27sEsy8acEkL181g-19" target="PH4uxNKFpPYVPGDwTnzV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-19" value="&lt;div&gt;ssh 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.20&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;21,80, 1111, 2222, 3333(SSH)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-700" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-20" value="&lt;div&gt;ssh 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.30&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-470" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-23" value="192.168.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsdf27sEsy8acEkL181g-24" value="&lt;div&gt;ssh 4&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.40&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;21,80, 5555(SSH)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-580" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkg2NVbdAC508lFHFCFD-1" value="&lt;div&gt;ssh 6&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.0.60&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;20,22,23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-600" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkg2NVbdAC508lFHFCFD-3" value="172.16.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH4uxNKFpPYVPGDwTnzV-1" value="&lt;div&gt;ssh 5&lt;/div&gt;&lt;div&gt;192.168.0.50&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;80, 21, &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-990" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mu5c1HI5rOi1Gnm5GsuJ-1" value="&lt;div&gt;ssh 9&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.0.90&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;20,22,23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-330" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mu5c1HI5rOi1Gnm5GsuJ-2" value="&lt;div&gt;ssh 8&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.0.80&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;20,22,23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-560" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mu5c1HI5rOi1Gnm5GsuJ-3" value="&lt;div&gt;ssh 7&lt;br&gt;&lt;/div&gt;&lt;div&gt;172.16.0.70&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports:&lt;/div&gt;&lt;div&gt;20,22,23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="-760" width="120" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L205vRVSoSnXY47SCGRg" name="Capstone Map">
+    <mxGraphModel dx="2568" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oGdQfeqNOnE2nYxe61GC-2" value="&lt;div&gt;&lt;code&gt;floating IP:&lt;br&gt;&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code&gt;10.50.29.115&lt;/code&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="290" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oGdQfeqNOnE2nYxe61GC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="oGdQfeqNOnE2nYxe61GC-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wiPLIcCa88lOo859npP9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oGdQfeqNOnE2nYxe61GC-4" target="RHXe_gEr2lJCGlvh4cFh-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHXe_gEr2lJCGlvh4cFh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oGdQfeqNOnE2nYxe61GC-4" target="q1wA_pytUKDCBIeX-BGi-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHXe_gEr2lJCGlvh4cFh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oGdQfeqNOnE2nYxe61GC-4" target="RHXe_gEr2lJCGlvh4cFh-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmP-Wgv3bOONg1yCIE2t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="oGdQfeqNOnE2nYxe61GC-4" target="F1eEID1387bU_wQGVs1G-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGdQfeqNOnE2nYxe61GC-4" value="&lt;div&gt;Capstone-01&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;6011, 6012, 80, 22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="400" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oGdQfeqNOnE2nYxe61GC-6" value="&lt;span class=&quot;challenge-desc&quot;&gt;creds: net&lt;code&gt;Y&lt;/code&gt;_student&lt;code&gt;X&lt;/code&gt;:password&lt;code&gt;X&lt;/code&gt; (net&lt;code&gt;Y&lt;/code&gt; = Networking Class Identifier &amp;amp; student&lt;code&gt;X&lt;/code&gt; = Student Number &amp;amp; password&lt;code&gt;X&lt;/code&gt; = Student Number)&lt;br&gt;&lt;br&gt;Known Ports: UNKNOWN&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;Action: Execute proper movement and redirection techniques&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;Any system, you reach or login to, you should check the &lt;code&gt;&quot;/usr/share/cctc/&quot;&lt;/code&gt; directory.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;If you want to use a tool/command from &lt;br&gt;within the host (example: tcpdump, netcat, arp, etc…​) you can check to &lt;br&gt;see if it is present, and you can find the tool/command via the &lt;br&gt;&quot;whereis&quot; or &quot;which&quot; commands.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;ssh tunnels, netcat, curl, wget, ftp, and proxychains from your own INTERNET_HOST &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;port range 11400-11499&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;challenge-desc&quot;&gt;echo &quot;&amp;lt;cap_letter&amp;gt;&quot; | base64&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;/span&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;/span&gt;&lt;span class=&quot;challenge-desc&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="-95" width="730" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="wiPLIcCa88lOo859npP9-3" value="10.1.1.0/25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="680" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;Recon Methodology&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;1. Host Discovery(nmap, nc, ./scan.sh, ping sweep)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;1a. nmap -Pn -T4 192.168.0.1/24(also 192.168.0.1,30,55,70) -p 21-23,80 | egrep -i &quot;scan report|open&quot;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;2. Port/ Service Discovery(nmap, nc, ./scan.sh)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;3. Port Validation(nc --&amp;gt; Banner Grabbing)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;4. Follow-on Actions based on ports found&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;4a. if it&#39;s 22 or 23, connect to it and do &lt;b&gt;passive&lt;/b&gt; recon&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;4b. if it is 21 or 80, wget -r &amp;lt;IP&amp;gt; or wget -r ftp://&amp;lt;ip&amp;gt; (PULL THE FILES)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;Scanning Methodology&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;1. Quick Scan Ports: 21-23, 80&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;2. scan specific ports based on hints/clues found&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;3. Well Known Ports: 0-1023&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;4. 10-10000&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;5. 65335(if all else fails)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;Passive Recon Methodology&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;hostname&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;ip a, ifconfig (interfaces and subnets)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;arp -a, ip neigh (Neighbors?)(ip neigh | egrep -iv &quot;failed&quot;)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;ss -nltp4(other listening ports?)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;ls /usr/cctc/share (Files of interest)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FCFCFC&quot;&gt;which, tcpdump, curl, telnet, nmap, wget, curl, wireshark (available tools) &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#967DB0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="35" y="-520" width="600" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-2" value="&lt;div&gt;ip neighbor 10.1.1.30&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.89 dev eth0&amp;nbsp; INCOMPLETE&lt;/div&gt;10.1.1.78 dev eth0&amp;nbsp; INCOMPLETE&lt;br&gt;10.1.1.125 dev eth0 lladdr fa:16:3e:f3:82:26 REACHABLE&lt;br&gt;10.1.1.55 dev eth0&amp;nbsp; INCOMPLETE&lt;br&gt;10.1.1.11 dev eth0 lladdr fa:16:3e:f9:ee:a7 REACHABLE&lt;br&gt;10.1.1.33 dev eth0 lladdr fa:16:3e:53:bd:56 REACHABLE&lt;br&gt;10.1.1.88 dev eth0&amp;nbsp; INCOMPLETE&lt;br&gt;10.1.1.81 dev eth0&amp;nbsp; INCOMPLETE&lt;br&gt;10.1.1.126 dev eth0 lladdr fa:16:3e:6f:21:12 REACHABLE&lt;br&gt;10.1.1.56 dev eth0&amp;nbsp; INCOMPLETE&lt;br&gt;10.1.1.25 dev eth0 lladdr fa:16:3e:20:ac:b9 STALE" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="740" y="-471" width="270" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-3" value="&lt;div&gt;Capstone-04&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.33&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;21, 23, 80&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="970" y="-10" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-4" value="&lt;div&gt;Internal IP: &lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.30&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-6" value="&lt;div&gt;Internet-Host&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="210" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-8" value="&lt;div&gt;internal IP:&lt;/div&gt;&lt;div&gt;10.10.0.40&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="210" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1wA_pytUKDCBIeX-BGi-10" value="&lt;div&gt;Hints:&lt;/div&gt;&lt;div&gt;10.1.1.30&lt;br&gt;&lt;/div&gt;&lt;div&gt;hint-1: &lt;br&gt;&lt;/div&gt;&lt;div&gt;This system seems to be a pivot for the network fundamentals and programming sections&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.25&lt;br&gt;&lt;/div&gt;&lt;div&gt;hint-3a: there is a webservice running on the port that corresponds with the RFC that governs IPv4 Header Structure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hint-3b: there is a listening tcp port on this system that waiting for connections. Build a python3 tcp stream sender and send it through your tunnel to say Hi. Send your message as a bytes-like object and decode the response to utf-8 to get the flag.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.11&lt;/div&gt;&lt;div&gt;Hint-2a: There is a webservice on the port that corresponds with the RFC that governs Private IPv4 addressing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hint-2b: There is a PCAP saved in the share folder of this machine that you should look at&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.33&lt;/div&gt;&lt;div&gt;Hint-4a: there is another box(capstone-05) on a different network (that only this system can see) trying to attack this box, on one of the port(s) associated with the W32/Blaster Worm. Find out what message it is trying to send.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hint-4b: RIPv2 seems to be running on the 10.1.1.0/25 network. Try to filter it out. Find out what networks its advertising in its updates. what you find will be the IP adress of the next environment pivot to access from your internet host. since you are not able to use wireshark, i would suggest you copy and paste hexdump to another packet decoded.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.50.20.228&lt;/div&gt;&lt;div&gt;Hint-6a: SSH is running on a higher port although it only seems to accept connections when it looks like its coming from a cisco device&#39;s TTL. Try using iptables to adjust sending TTL. The Flag for this system is the SSH port number.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.2.8&lt;/div&gt;&lt;div&gt;Hint-7a: SSH is running on a higher port but not accessible from the outside. it also seems to use different credentials than what the other systems use. How can we intercept these credentials? maybe another system has a tool that can help us. The flag for this systemclear&lt;/div&gt;&lt;div&gt;&amp;nbsp;is the password you find converted to base64. credentials for this system will be exactly what you find.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="-810" width="510" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="RHXe_gEr2lJCGlvh4cFh-1" value="&lt;div&gt;Capstone-03&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.25&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;21&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="970" y="230" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RHXe_gEr2lJCGlvh4cFh-2" value="&lt;div&gt;Capstone-02&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.1.1.11&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;open ports: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;21, 23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="970" y="470" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1GuGopUfNw0esDo_v9rD-1" value="changing ttl: sudo iptables -t mangle -A POSTROUTING -j TTL --ttl-set &amp;lt;desired TTL&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="-150" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmP-Wgv3bOONg1yCIE2t-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="F1eEID1387bU_wQGVs1G-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="170.23809523809518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1eEID1387bU_wQGVs1G-1" value="&lt;div&gt;Capstone-06&lt;/div&gt;&lt;div&gt;10.50.20.228&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;7777&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="95" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pmP-Wgv3bOONg1yCIE2t-2" value="10.2.2.0/28" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmP-Wgv3bOONg1yCIE2t-3" value="Floating IP: 10.50.20.228" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmP-Wgv3bOONg1yCIE2t-4" value="Internal IP: 10.2.2.6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="pmP-Wgv3bOONg1yCIE2t-7" target="ho5c10yX5_HbbSX6FSpt-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="pmP-Wgv3bOONg1yCIE2t-7" target="LQro4Lg7i1zYoIJ7JuFZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="pmP-Wgv3bOONg1yCIE2t-7" target="LQro4Lg7i1zYoIJ7JuFZ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmP-Wgv3bOONg1yCIE2t-7" value="&lt;div&gt;Capstone-07&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.2.2.7&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;23,80, 2222(ssh)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="100" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="ho5c10yX5_HbbSX6FSpt-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-2" value="1: 11400" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="440" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="ho5c10yX5_HbbSX6FSpt-5" target="ho5c10yX5_HbbSX6FSpt-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="270" />
+              <mxPoint x="1460" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ho5c10yX5_HbbSX6FSpt-5" target="ho5c10yX5_HbbSX6FSpt-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1229.6190476190473" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="255" />
+              <mxPoint x="1220" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-5" value="3/1: 7777" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="255" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-6" value="1: 23" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-8" value="&lt;div&gt;1: ssh &amp;lt;user&amp;gt;@10.50.20.228 -p &amp;lt;alt ssh port&amp;gt; -L &amp;lt;port to open on local machine&amp;gt;:10.2.2.7:23 -NT&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;^ what to do on the next machine^&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1295" y="300" width="535" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="ho5c10yX5_HbbSX6FSpt-11" target="ho5c10yX5_HbbSX6FSpt-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-11" value="&lt;div&gt;2. 7777 &amp;lt;-&lt;br&gt;&lt;/div&gt;&lt;div&gt;3/2: 11499 -&amp;gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="ho5c10yX5_HbbSX6FSpt-12" target="ho5c10yX5_HbbSX6FSpt-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-12" value="2. -&amp;gt; 2222" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="47.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-15" value="2. ssh &amp;lt;user&amp;gt;@&amp;lt;Middle_Man_IP&amp;gt; -p 7777 -R 11499&amp;lt;port to open on remote machine&amp;gt;:&amp;lt;back_to_local_IP&amp;gt;:2222 -NT" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="-30" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-16" value="&lt;div&gt;3. ssh net1_student14@10.50.20.228 -p 7777 -L 11401:localhost:11499&lt;/div&gt;&lt;div&gt;ssh &amp;lt;user&amp;gt;@&amp;lt;Middle_ManIP&amp;gt; -p &amp;lt;ssh port&amp;gt; -L &amp;lt;port to leave your machine&amp;gt;:&amp;lt;where to go from the next machine&amp;gt;:&amp;lt;port to connect from the next machine&amp;gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="460" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ho5c10yX5_HbbSX6FSpt-18" target="ho5c10yX5_HbbSX6FSpt-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="195" />
+              <mxPoint x="1170" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-18" value="3: 11401" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="420" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="ho5c10yX5_HbbSX6FSpt-21" target="LQro4Lg7i1zYoIJ7JuFZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-21" value="&lt;div&gt;Capstone-08&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.10.10.140&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;80, 301&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="-120" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-23" value="10.10.10.125/25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho5c10yX5_HbbSX6FSpt-24" value="&lt;div&gt;More hints: &lt;/div&gt;&lt;div&gt;10.10.10.140&lt;/div&gt;&lt;div&gt;hint-08a: SSH is running on the port that corresponds with the HTTP status code for Moved Permanently. The Flag for this system is the port number converted into BASE64.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hint-08b: This system seems to be a pivot for the Network Reconnaissance section.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.10.10.167&lt;/div&gt;&lt;div&gt;Hint-10a: SSH is running on the port that correspnds with the HTTP status code for Not Found.&lt;/div&gt;&lt;div&gt;The flag for this system is the port number converted to base64. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hint-10b: This system seems to be a pivot for the Movement and Redirection section. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.10.10.182&lt;/div&gt;&lt;div&gt;hint-12a: SSH is running on the port that corresponds with the HTTP status code Gateway timeout. The flag for this system is the port number converted to base64.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hint-12b: this system seems to be a pivot for the network analysis and filtering sections.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="-810" width="510" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="LQro4Lg7i1zYoIJ7JuFZ-1" target="LQro4Lg7i1zYoIJ7JuFZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-1" value="&lt;div&gt;Capstone-10&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.10.10.167&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;80, 404&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2310" y="100" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="LQro4Lg7i1zYoIJ7JuFZ-5" target="LQro4Lg7i1zYoIJ7JuFZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="LQro4Lg7i1zYoIJ7JuFZ-5" target="LQro4Lg7i1zYoIJ7JuFZ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-5" value="&lt;div&gt;Capstone-12&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.10.10.182&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;21&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="340" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-7" value="10.10.10.129" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-8" value="&lt;div&gt;Capstone-09&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.10.62&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;21&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2710" y="-120" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-9" value="&lt;div&gt;Capstone-11&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.10.80&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2710" y="100" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-10" value="&lt;div&gt;Capstone-13&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.10.101&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;21,22,444,801,999&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2710" y="340" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LQro4Lg7i1zYoIJ7JuFZ-14" value="&lt;div&gt;Capstone-14&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.10.111&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports:&lt;/div&gt;&lt;div&gt;21,22,88,1999&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2710" y="520" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tCBH_U-Nkk2FmH83pJio-1" value="4:ssh net1_student14@localhost -p 11401 -L 11402:10.10.10.140:301 -NT&lt;br&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1295" y="380" width="535" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCBH_U-Nkk2FmH83pJio-3" value="DYNAMIC: ssh net1_student14@localhost -p 11402 -D 9050 -NT" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="450" width="410" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VGSFS-7xp2DidhXrC6Vb" name="Page-4">
+    <mxGraphModel dx="1468" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZqXmdYm_DVnPQx8Y_EMo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="ZqXmdYm_DVnPQx8Y_EMo-1" target="ZqXmdYm_DVnPQx8Y_EMo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqXmdYm_DVnPQx8Y_EMo-1" value="Internet host" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqXmdYm_DVnPQx8Y_EMo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="ZqXmdYm_DVnPQx8Y_EMo-2" target="ZqXmdYm_DVnPQx8Y_EMo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QyFt6vtsJbalDVsy7SPE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="ZqXmdYm_DVnPQx8Y_EMo-2" target="QyFt6vtsJbalDVsy7SPE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QyFt6vtsJbalDVsy7SPE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="ZqXmdYm_DVnPQx8Y_EMo-2" target="QyFt6vtsJbalDVsy7SPE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqXmdYm_DVnPQx8Y_EMo-2" value="&lt;div&gt;This guy&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crZkznfX9WLF7a43LvJN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="ZqXmdYm_DVnPQx8Y_EMo-3" target="crZkznfX9WLF7a43LvJN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqXmdYm_DVnPQx8Y_EMo-3" value="&lt;div&gt;That guy&lt;/div&gt;&lt;div&gt;23,80&lt;/div&gt;&lt;div&gt;filtered: 5544(ssh)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqXmdYm_DVnPQx8Y_EMo-4" value="&lt;div&gt;DYNAMIC: @IH ssh &amp;lt;user&amp;gt;@this_guy_ip -D 9050 -NT&lt;/div&gt;&lt;div&gt;(according to COSC and only for cosc, you can only have one dynamic tunnel open)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyFt6vtsJbalDVsy7SPE-1" value="other guy" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyFt6vtsJbalDVsy7SPE-2" value="other guy" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyFt6vtsJbalDVsy7SPE-5" value="@IH ssh &amp;lt;user&amp;gt;@this_guy_IP -L1xx00:that_guy_IP:23 -NT" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyFt6vtsJbalDVsy7SPE-6" value="&lt;div&gt;@IH telnet localhost 1xx00 -l &amp;lt;username&amp;gt;&lt;/div&gt;&lt;div&gt;@that_guy: ssh &amp;lt;user&amp;gt;@Localhost -R 1xx99:This_guyIP:5544 -NT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EgT-UPfSYKdtN9LUCiir-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="EgT-UPfSYKdtN9LUCiir-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgT-UPfSYKdtN9LUCiir-1" value="1x000" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgT-UPfSYKdtN9LUCiir-3" value="23" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="crZkznfX9WLF7a43LvJN-1" value="@IH ssh &amp;lt;user&amp;gt;@this_guy_IP -L 1xx01:localhost:1xx99 -NT" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crZkznfX9WLF7a43LvJN-3" value="&lt;div&gt;@IH ss -ntlp&lt;/div&gt;&lt;div&gt;@IH ssh &amp;lt;user&amp;gt;@localhost -p 1xx01&lt;/div&gt;&lt;div&gt;@that_guy: exit&lt;/div&gt;&lt;div&gt;@IH: ssh &amp;lt;user&amp;gt;@localhost -p 1xx01 -L 1xx02::SCOOBY22 -NT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crZkznfX9WLF7a43LvJN-4" value="&lt;div&gt;scooby&lt;/div&gt;&lt;div&gt;22&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xXTuqNqvJGorXjQz1Ajj-1" value="&lt;div&gt;UH ssh &amp;lt;user&amp;gt;@localhost -p 1xx02&lt;/div&gt;&lt;div&gt;SCOOBY telnet SHAGGY_IP Permission denied&lt;/div&gt;&lt;div&gt;@SCOOBY exit&lt;/div&gt;&lt;div&gt;IH: ssh &amp;lt;user&amp;gt;@localhost -p 1xx02 -L 1xx03:&lt;br&gt;&lt;/div&gt;SHAGGY_IP:23 -NT" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xXTuqNqvJGorXjQz1Ajj-3" value="IH telnet localhost -p 1xx03 " style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="850" width="360" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
